@@ -4,7 +4,7 @@
 # DialogUtil
 common used dialog with material style ( in support v7)，ios style，get top activity automatically,can invoke show() everywhere (any thread , any window)
 
-[![](https://jitpack.io/v/hss01248/DialogUtil.svg)](https://jitpack.io/#hss01248/DialogUtil)
+[![](https://jitpack.io/v/feisher/DialogUtil.svg)](https://jitpack.io/#feisher/DialogUtil)
 
 [中文ReadMe](README-ch.md)
 <br>
@@ -82,7 +82,8 @@ Add it in your root build.gradle at the end of repositories:
 
 ```
 	dependencies {
-	        compile 'com.github.hss01248:DialogUtil:lastest release'
+	//原版由于中间发错一个版本，依赖升级出现问题，
+	        compile 'com.github.feisher:DialogUtil:lastest release'
 	}
 ```
 lastest release: https://github.com/hss01248/DialogUtil/releases
