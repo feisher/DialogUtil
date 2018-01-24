@@ -4,7 +4,7 @@
 # DialogUtil
 material风格(v7支持包中的)，ios风格，自动获取顶层activity,可在任意界面弹出,可在任意线程弹出
 
-[![](https://jitpack.io/v/hss01248/DialogUtil.svg)](https://jitpack.io/#hss01248/DialogUtil)
+[![](https://jitpack.io/v/feisher/DialogUtil.svg)](https://jitpack.io/#feisher/DialogUtil)
 
 [wiki](https://github.com/hss01248/DialogUtil/wiki)
 
@@ -88,7 +88,8 @@ Add it in your root build.gradle at the end of repositories:
 
 ```
 	dependencies {
-	        compile 'com.github.hss01248:DialogUtil:lastest release'
+	//原版由于发错一个版本导致依赖升级出现问题，特修改此处
+	        compile 'com.github.feisher:DialogUtil:lastest release'
 	}
 ```
 lastest release: https://github.com/hss01248/DialogUtil/releases
